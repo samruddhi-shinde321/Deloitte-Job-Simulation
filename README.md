@@ -51,9 +51,7 @@ I successfully completed both tasks and achieved a score of **9/10**.
 
 ## 📸 Dashboard Screenshot
 
-The screenshot below showcases the Tableau dashboard created as part of Task 1.
-
-![Tableau Dashboard Screenshot](https://github.com/samruddhi-shinde321/Deloitte-Job-Simulation/blob/main/Tableau%20Screenshot.png)
+🔗 [View Tableau Dashboard Screenshot](https://github.com/samruddhi-shinde321/Deloitte-Job-Simulation/blob/main/Tableau%20Screenshot.png)
 
 ## 🏆 Certificate of Completion
 
